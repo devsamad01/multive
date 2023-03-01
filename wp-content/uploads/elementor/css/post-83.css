@@ -1,0 +1,9 @@
+.elementor-83 .elementor-element.elementor-element-eeead39 img {
+    max-width: 52%;
+}
+
+@media(max-width:767px) {
+    .elementor-83 .elementor-element.elementor-element-eeead39 {
+        text-align: left;
+    }
+}
